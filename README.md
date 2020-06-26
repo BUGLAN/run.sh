@@ -1,5 +1,6 @@
 # run
-run quick command
+
+> run quick command
 
 ## install
 
