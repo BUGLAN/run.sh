@@ -38,6 +38,5 @@ fi
 
 done <${config}
 
-echo "${cmd}"
 eval "${cmd}"
 exit 0
