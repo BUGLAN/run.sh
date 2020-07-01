@@ -5,8 +5,8 @@
 ## install
 
 ```bash
-git clone git@github.com:BUGLAN/run.git
-cd run
+git@git.forchange.cn:common/run.sh.git
+cd run.sh
 chmod a+x ./install.sh
 ./install.sh
 ```
