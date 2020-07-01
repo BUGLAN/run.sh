@@ -22,9 +22,8 @@ touch ~/.runrc
 2. add command in .runrc
 
 ```
-[uac]
-oc port-forward svc/mp-wx-user 2011:8090 &
-oc port-forward svc/fid 2900:8080
+[hello]
+echo hello world
 ```
 
 3. run quick command
