@@ -22,14 +22,15 @@ touch ~/.runrc
 2. add command in .runrc
 
 ```
-[hello]
-echo hello world
+[uac]
+oc port-forward svc/mp-wx-user 2011:8090 &
+oc port-forward svc/fid 2900:8080
 ```
 
 3. run quick command
 
 ```bash
-run.sh hello
+run.sh uac
 ```
 
 ## notice
