@@ -29,7 +29,7 @@ echo hello world
 3. run quick command
 
 ```bash
-run.sh uac
+run.sh hello
 ```
 
 ## notice
